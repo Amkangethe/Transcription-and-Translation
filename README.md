@@ -1,1 +1,1 @@
-# Transcription-and-Translation
+For this project, we will be loading in a single strand of DNA (picturing that the DNA has already been spliced) at a time. The DNA will then be transcribed into mRNA. Finally, the mRNA will be converted into polypeptides using translation. Every three nucleotides, called a codon, will translate into one amino acid 
